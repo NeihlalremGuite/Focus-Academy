@@ -124,3 +124,4 @@ model StripeCustomer {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
+//using Avien instead of planetscale
